@@ -2,7 +2,7 @@
 
 Author: Prof. Marcel Salathé, EPFL
 
-Last updated: April 21, 2020
+Last updated: April 22, 2020
 
 This document is continuously updated to reflect my current thinking around digital contact tracing and quarantining. This is not an official document, but a personal record keeping. I want to do this in the open becuase a) I believe transparancy is paramount for these issues, b) I will be wrong on many things and open discussions is the fastest way to correct things, and c) it could help others, in the best case.
 
@@ -22,7 +22,10 @@ In this document, I hope to address some of the questions around this process. A
 ### Who needs to go into quarantine?
 A substantial fraction of transmisison ([anywhere](https://www.nature.com/articles/s41591-020-0869-5) between [40% and 60%](https://www.medrxiv.org/content/10.1101/2020.03.05.20031815v1)) occurs in the pre-symptomatic stage, 1-3 days before the onset of symptoms. Thus, because people can be contagious without having symptoms (yet), quarantine should not depend on the presence of symptoms, but on the suspicion of being infected (through contacts with a confirmed infected case). In addition, quarantine should not be conditional on testing. After exposure to an infected person, a negative PCR test at time point t cannot exclude that a person will become contagious at timepoint t+1. It simply means that the viral load in the potentially infected person has not yet reached sufficinetly high levels to be detected by PCR tests at time t. As this phenomenon cannot be excluded during the entire quarantine time, PCR tests are not necessary for quarantine protocols, but should be used for epidemiological data collection (if test capacities allow).
 
-The definition of a potential contact should follow standard protocols. Most defintions define a close contact as being < 2  meters distance for at least  15 minutes.
+The definition of a potential contact should follow standard protocols. Most defintions define a close contact as being < 2  meters distance for at least 15 minutes.
+
+### What is the duration of quarantine?
+The temporal distribution of the incubation period is estimated to have a median of around 5 days, up to 14 days (longer incubation periods have been [reported](https://jamanetwork.com/journals/jama/fullarticle/2762028) but are extremely rare). Given that [the 95% percentile was reported at 12.5 days](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316), and the fact that most contacts were a few days before the contact was alerted, a quarantine duration of 10 days would be justified.
 
 ## Operational
 
