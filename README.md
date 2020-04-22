@@ -34,6 +34,10 @@ Serological tests are of limited use in a contact tracing system. People with es
 
 Importantly, PCR tests should not be used to *determine* quarantine of the contacts. Upon exposure from a confirmed index case, a contact may habe been infected, but not have a high enough viral load for a PCR test to detect. Thus, a negative PCR test cannot exclude, at any time during the quarantine period, that the person will soon become contagious. That said, regular testing with quarantined people will be important from an epidemiological and clinical perspective.
 
+### What fraction of the population needs to participate for this to be effective?
+
+Early results have shown that 
+
 ## Operational
 
 ### How many contact tracers are needed?
